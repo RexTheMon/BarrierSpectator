@@ -1,0 +1,7 @@
+me\rexthemon\barrierspec\tasks\SetSpectatorTask.class
+me\rexthemon\barrierspec\utils\Core.class
+me\rexthemon\barrierspec\utils\PlayerCommand.class
+me\rexthemon\barrierspec\events\UserJoinEvent.class
+me\rexthemon\barrierspec\events\UserLeaveEvent.class
+me\rexthemon\barrierspec\commands\BSToggleCommand.class
+me\rexthemon\barrierspec\BarrierSpectator.class
